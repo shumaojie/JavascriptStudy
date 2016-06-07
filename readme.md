@@ -13,3 +13,5 @@
 
 ##常用点##
 1. 页面关闭  window.close()
+2. 字符串替换  items[i]=items[i].replace(/被替换的字符串，没有双冒号/g,"替换成的字符串")
+3. 把mysql通过php读出，然后利用javascript转换为php
